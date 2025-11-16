@@ -1,9 +1,10 @@
+from collections import Counter
 class Solution(object):
+    
     def isAnagram(self, s, t):
-        s = sorted(s)
-        t = sorted(t)
-        if s == t:
+        if Counter(s) == Counter(t):
             return True
         else:
             return False
+        
         
