@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Jahnavirachel/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Jahnavirachel/LeetCode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Jahnavirachel/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Jahnavirachel/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jahnavirachel/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jahnavirachel/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Jahnavirachel/LeetCode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jahnavirachel/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Jahnavirachel/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Jahnavirachel/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Jahnavirachel/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
