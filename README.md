@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Jahnavirachel/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jahnavirachel/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Jahnavirachel/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Jahnavirachel/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Jahnavirachel/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Jahnavirachel/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
