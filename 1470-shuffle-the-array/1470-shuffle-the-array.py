@@ -1,0 +1,13 @@
+class Solution(object):
+    def shuffle(self, nums, n):
+        x = []
+        y = []
+        res = []
+        x = nums[n:]
+        y = nums[:n]
+        for i in range(n):
+            res.append(y[i])
+            res.append(x[i])
+        return res
+        
+        
